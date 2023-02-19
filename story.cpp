@@ -5,5 +5,5 @@ using namespace std;
 
 void StoryTelling() 
 {
-    cout << "Hello World" << endl; 
+
 }
